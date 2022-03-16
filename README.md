@@ -9,3 +9,6 @@ I made a simple madlib as a small self presentation. Don't judge, I have absolut
 
 # 2nd project: guess the number
 A small game where you give the computer a range of numbers, and he chose one number in that range then the user has to guess that numbers
+
+# 3rd project: rock_paper_scissores
+a simple game just exploring while loop and functions 
